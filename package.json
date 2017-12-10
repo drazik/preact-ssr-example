@@ -22,6 +22,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "preact": "^8.2.6",
-    "preact-render-to-string": "^3.7.0"
+    "preact-render-to-string": "^3.7.0",
+    "preact-router": "^2.6.0"
   }
 }
